@@ -1,0 +1,179 @@
+.navbar {
+  padding: 16px 64px 16px 64px;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: 400;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.profile {
+  margin: 0 32px 16px;
+  width: 45%;
+  height: 45%;
+}
+
+.intro-container {
+  margin-left: 64px;
+  margin-right: 64px;
+  font-size: 20px;
+}
+
+.resume-container {
+  margin-left: 64px;
+  margin-right: 64px;
+}
+
+h4 {
+  margin-top: 1rem;
+  font-family: "Montserrat";
+}
+
+.education {
+  margin-left:145px;
+  margin-right:145px;
+}
+
+.courses {
+  margin-left: 145px;
+  margin-right: 145px;
+}
+
+
+.skills {
+  margin-left: 145px;
+  margin-right: 145px;
+}
+
+
+.extracurricular {
+  margin-left: 145px;
+  margin-right: 145px;
+}
+
+
+#footer {
+  text-align: center;
+}
+
+.swiss {
+  height: 450px;
+  width: 100%;
+}
+
+
+.swiss2 {
+  height: 500px;
+  width: 100%;
+}
+
+.welcome-container {
+  margin: 50px 350px 100px 350px;
+}
+
+.short-intro {
+  text-align: center;
+  margin-top: 32px;
+}
+
+
+.fa-linkedin {
+  font-size: 40px;
+  color: black;
+  margin-right: 5px;
+}
+
+.fa-envelope-square {
+  font-size: 40px;
+  color: black;
+  margin-left: 5px;
+  margin-bottom: 50px;
+}
+
+.project-container {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#footer {
+  margin: 100px 50px 100px 50px;
+}
+
+p {
+  color: #505050;
+}
+
+table {
+  font-family: "Open Sans";
+}
+
+.research-intro {
+  font-family: "Montserrat";
+  font-size: 16px;
+}
+
+.research-div {
+  padding: 15px 15px 15px 15px;
+}
+
+.top-left {
+  position: absolute;
+  top: 180px;
+  left: 500px;
+  font-family: "Sacramento";
+  font-size: 50px;
+  color: white;
+}
+
+.top-left-about {
+  position: absolute;
+  top: 160px;
+  left: 410px;
+  font-family: "Sacramento";
+  font-size: 50px;
+  color: black;
+}
+
+.top-left-project {
+  position: absolute;
+  top: 160px;
+  left: 380px;
+  font-family: "Sacramento";
+  font-size: 50px;
+  color: black;
+}
+
+.navbar-brand {
+  font-size: 25px;
+}
+
+.top-left-research {
+  position: absolute;
+  top: 160px;
+  left: 500px;
+  font-family: "Sacramento";
+  font-size: 50px;
+  color: white;
+}
+
+.top-left-resume {
+  position: absolute;
+  top: 160px;
+  left: 300px;
+  font-family: "Sacramento";
+  font-size: 50px;
+  color: black;
+}
+
+.project {
+  width: 300px;
+  height: 250px;
+  object-fit: cover;
+}
+
+#worldbuilding:hover {
+  background-image: url("images/BYOW.png");
+}
